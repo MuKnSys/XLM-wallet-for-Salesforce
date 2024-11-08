@@ -6,6 +6,7 @@
 ## Stellar Ecoystem
 
 Building awareness around blockchain and cryptocurrencies is an important part of successful enterprise onboarding. Therefore, we provide the following resources for XLM Wallet for Salesforce users.
+* [Salesforce Administrator Primer on Web3 Wallets]()
 
 
 ## Copyright and Licence
