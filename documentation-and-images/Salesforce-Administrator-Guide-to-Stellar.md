@@ -1,5 +1,4 @@
-#
-
+# Salesforce Administrator Guide to Stellar
 
 ## Stellar Related Web3 Enabler Blog Posts
 
