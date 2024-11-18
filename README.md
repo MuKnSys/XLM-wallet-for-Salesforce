@@ -1,6 +1,6 @@
 # XLM Wallet for Salesforce
 
-![]documentation-and-images/XLM-wallet-for-Salesforce-thumbnail.png)
+![](documentation-and-images/XLM-wallet-for-Salesforce-thumbnail.png)
 
 
 ## Stellar Ecoystem
