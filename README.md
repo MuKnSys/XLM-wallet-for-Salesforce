@@ -10,6 +10,8 @@ Building awareness around blockchain and cryptocurrencies is an important part o
 * [Salesforce Administrator Guide to Stellar](documentation-and-images/Salesforce-Administrator-Guide-to-Stellar.md)
 * [Creating a Live Org Wallet using XLM for Salesforce](https://github.com/MuKnSys/XLM-wallet-for-Salesforce/blob/main/documentation-and-images/Creating-a-Live-Org-Wallet_XLM-for-Salesforce-by-Web3Enabler.pdf)
 
+## Technical Setup and Architecture
+
 
 ## Copyright and Licence
 
