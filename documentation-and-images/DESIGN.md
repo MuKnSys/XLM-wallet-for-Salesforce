@@ -12,18 +12,18 @@ Similar to our [Blockchain Payments app](https://appexchange.salesforce.com/appx
 
 The following diagram shows the Core Data Objects in the Salesforce user interface, using the XLM Wallet for Salesforce app. 
 
-![](XLM-wallet-for-Salesforce-core-data-objects.png)
+![](Core%20Data%20Objects.png)
 
 
 ##  Library Architecture
 
 The following diagram shows how the Stellar-SDK and Salesforce Apex and Lightweight Web Components will be used in XLM Wallet for Salesforce. 
 
-![](XLM-wallet-for-Salesforce-library-architecture.png)
+![](Library%20Architecture.png)
 
 
 ## Performance Considerations
 
 The following diagram outlines how we plan to optimize the way we integrate Stellar network data into Salesforce to ensure speed and availability for users. 
 
-![](XLM-wallet-for-Salesforce-performance-considerations.png)
+![](Performance%20Considerations.png)
