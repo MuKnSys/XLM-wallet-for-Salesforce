@@ -12,7 +12,7 @@ Building awareness around blockchain and cryptocurrencies is an important part o
 
 ## Technical Setup and Architecture
 
-This [diagram](https://github.com/MuKnSys/XLM-wallet-for-Salesforce/blob/main/documentation-and-images/web3enabler-xlm-wallet-for-salesforce-architecture.png) provides a high level overview of what the connection with Salesforce wil look like.
+This [diagram](https://github.com/MuKnSys/XLM-wallet-for-Salesforce/blob/main/documentation-and-images/web3enabler-xlm-wallet-for-salesforce-architecture.png) provides a high level overview of what the connection with Salesforce will look like.
 
 ## Copyright and Licence
 
