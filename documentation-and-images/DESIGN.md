@@ -14,6 +14,8 @@ The following diagram shows the Core Data Objects in the Salesforce user interfa
 
 ![](Core%20Data%20Objects.png)
 
+Alex Hochberger, Founder and CEO of Web3 Enabler, describes some of these features in this [explainer video](https://youtu.be/a-ditM_XxoU).  You can also refer to the following screenshots of some of our other Salesforce wallet projects to get a better sense of what these Objects look like and what they do.
+
 
 ##  Library Architecture
 
